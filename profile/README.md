@@ -1,10 +1,10 @@
-![ascemt](https://github.com/user-attachments/assets/7a7d4b9c-497b-429f-9d7f-bc7cef25063d)
+![ascemt](https://github.com/user-attachments/assets/a44dac87-6d7d-4d8a-bada-347ae2637acc)
 
 
 
 ##            						 Ascent Development
 
-Ascent Development is a org that aims to provide quality and performant software!
+Ascent Development is a org that aims to provide high quality software!
 
 
 ## 🎮 **Getting Started**
